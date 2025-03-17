@@ -21,6 +21,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2w64b10mOKRANj8tdl7Y-31" value="&lt;b&gt;K&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2w64b10mOKRANj8tdl7Y-30">
+          <mxGeometry x="0.1524" y="-1" relative="1" as="geometry">
+            <mxPoint x="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2w64b10mOKRANj8tdl7Y-2" value="Duyệt" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="160" width="80" height="80" as="geometry" />
         </mxCell>
@@ -84,6 +89,11 @@
         </mxCell>
         <mxCell id="2w64b10mOKRANj8tdl7Y-11" value="Thu dọn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2w64b10mOKRANj8tdl7Y-32" value="&lt;b&gt;Đ&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="270" y="149" as="geometry">
+            <mxPoint x="65" y="110" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
